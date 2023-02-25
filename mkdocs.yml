@@ -1,4 +1,5 @@
 site_name: obsidian-mkdocs template
+site_url: https://ignatmaldive.github.io/obsidian/
 
 theme:
     name: 'material'
